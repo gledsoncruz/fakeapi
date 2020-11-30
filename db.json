@@ -3,22 +3,22 @@
     {
       "id": 1,
       "nome": "Água e Esgoto",
-      "descricao": "Reclamações referentes a vazamentos, falta de água, consertos em geral",
+      "descricao": "Reclamações referentes a vazamentos, falta de água, consertos em geral"
     },
     {
       "id": 2,
       "nome": "Luz e Energia",
-      "descricao": "Reclamações referentes a falta de energia",
+      "descricao": "Reclamações referentes a falta de energia"
     },
     {
       "id": 3,
       "nome": "Saúde Pública",
-      "descricao": "Reclamações referentes a consultas, exames, etc",
+      "descricao": "Reclamações referentes a consultas, exames, etc"
     },
     {
       "id": 4,
       "nome": "Asfalto e Iluminação Pública",
-      "descricao": "Reclamações referentes a buracos, postes com lâmpadas queimadas, etc",
+      "descricao": "Reclamações referentes a buracos, postes com lâmpadas queimadas, etc"
     },
   ],  
 }
